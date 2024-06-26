@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/46b8d91ae101191fb187caff3f4ed098a54a02877efda2ada2c8c9adcb2f0eba/68747470733a2f2f692e6962622e636f2f33685371764b6e2f3230393433383631392d32353039316364662d613132362d346539352d613234632d3565666466383035373630362e676966" alt="MasterHead" data-canonical-src="https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-6.jpg" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm Pranav Yeole</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" width="400px" alt="coding" src="https://static.vecteezy.com/system/resources/thumbnails/017/202/411/original/animated-online-coding-course-programming-language-loop-flat-2d-character-hd-footage-colorful-isolated-animation-on-white-background-with-alpha-channel-transparency-for-website-social-media-video.jpg" />
