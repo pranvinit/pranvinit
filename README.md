@@ -5,5 +5,5 @@
 - 💬 Ask me about **JavaScript and its frameworks, PHP and WordPress**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranvinit&show_icons=true&locale=en&layout=compact" alt="pranvinit" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pranvinit&locale=en&rank_icon=github&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="pranvinit" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pranvinit&locale=en&rank_icon=github&bg_color=#fff&title_color=fff&text_color=fff" alt="pranvinit" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranvinit&" alt="pranvinit" /></p>
